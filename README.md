@@ -1,5 +1,7 @@
 # ush-web
- Class Attendance
+ Class Attendance Tracker
+
+_disclaimer: this is an older project that I haven't made open source until now, don't mind the bad code_
  
 ## Requirements
 - at least Python 3.6.1
